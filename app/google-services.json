@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "403420804007",
+    "firebase_url": "https://feedback-system-ff245.firebaseio.com",
+    "project_id": "feedback-system-ff245",
+    "storage_bucket": "feedback-system-ff245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403420804007:android:7e743f2d5a4e4f36",
+        "android_client_info": {
+          "package_name": "com.example.fernandosouza.feedback_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403420804007-9t0sjlmcjq1123cg6haan97i4lqvr4bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fernandosouza.feedback_system",
+            "certificate_hash": "1f2c2275b63b1fb21790b42b74dbbe828ea6fbfc"
+          }
+        },
+        {
+          "client_id": "403420804007-5loou03g094ub24aa9kg56m6vmsahnj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClHtDNIHAtOrJ8yL00mqie1B8X-EIybY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403420804007-5loou03g094ub24aa9kg56m6vmsahnj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403420804007:android:037e5e605f2bfb44",
+        "android_client_info": {
+          "package_name": "com.example.fernandosouza.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403420804007-kurkcg0o4t0k7tgbf2f4gu9kr6qto9gj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fernandosouza.myapplication",
+            "certificate_hash": "1f2c2275b63b1fb21790b42b74dbbe828ea6fbfc"
+          }
+        },
+        {
+          "client_id": "403420804007-5loou03g094ub24aa9kg56m6vmsahnj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClHtDNIHAtOrJ8yL00mqie1B8X-EIybY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403420804007-5loou03g094ub24aa9kg56m6vmsahnj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
